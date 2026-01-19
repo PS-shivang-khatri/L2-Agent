@@ -1,0 +1,8 @@
+mcp>=1.2
+requests
+ollama
+pydantic
+pydantic-core
+pywin32
+rpds-py
+jsonschema
